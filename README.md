@@ -22,4 +22,4 @@
 
 ### 📫 Let’s connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Samadu-blue)](https://www.linkedin.com/in/abdul-samadu-3b71a332a/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-My%20Work-orange)]((https://abdulsamadul03.wixsite.com/my-site-1))
+[![Portfolio](https://img.shields.io/badge/Portfolio-My%20Work-orange)]([(https://abdulsamadul03.wixsite.com/my-site-1)](https://abdulsamadul03.wixsite.com/my-site-1))
